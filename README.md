@@ -1,3 +1,9 @@
 # Graph_Mixed_Supervised_Learning
 
-LipMoE
+## Packages
+pip install torch
+pip install torch_geometric
+
+
+## Run
+python main.py
