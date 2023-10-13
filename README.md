@@ -2,15 +2,14 @@
 
 ## Packages
      ```python
-    pip install torch    
-    pip install torch_geometric
+     # pip install torch    
+     pip install torch_geometric
      ```
 
 
 
 ## Run
      ```python
-    python main.py
-    
+     # python main.py   
      ```
 
