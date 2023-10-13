@@ -13,3 +13,8 @@
      # python main.py   
      ```
 
+     ```python
+     # from grb.model.dgl import GAT
+     from gatdp import GAT
+     ```
+
