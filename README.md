@@ -1,6 +1,6 @@
 # Graph_Mixed_Supervised_Learning
 
-## Packages
+1. Install the packages
      ```python
      # pip install torch    
      pip install torch_geometric
@@ -8,13 +8,9 @@
 
 
 
-## Run
+2. Run
      ```python
      python main.py   
      ```
 
 
-4.   
-     ```python
-     python main.py  
-     ```
