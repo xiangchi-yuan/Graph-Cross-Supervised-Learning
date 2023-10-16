@@ -2,7 +2,7 @@
 
 1. Install the packages
      ```python
-     # pip install torch    
+     pip install torch    
      pip install torch_geometric
      ```
 
